@@ -1,8 +1,8 @@
 # Medical Diagnostic App
 
-Problem statement: Create a medical disgnostic app for predicting diabetes in women
+Problem statement: Create a medical diagnostic  app for predicting diabetes in women
 
-We have downloaded the data from Kaggle - Pima Indians Diabetes Database (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
+We have downloaded the data from the Kaggle - Pima Indians Diabetes Database (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 
 This dataset contains several medical predictors and one target variable. The data includes the following features:
 
